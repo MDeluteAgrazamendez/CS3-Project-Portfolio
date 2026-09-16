@@ -40,17 +40,17 @@
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
 | 1. Students | Connect to the school Wi-Fi network to access online learning portals, download learning materials, and complete research or assignments.                             |
-| 2. Teachers |                               |
+| 2. Teachers | Use the Wi-Fi network to access online educational content, stream lecture media, and manage digital classroom activities.                             |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    | Users enter their classroom of the academic building for classes or study sessions. |  Students & Teachers  |
+| 2    | Users attempt to connect their devices to the school's free Wi-Fi network from their current location. | Students & Teachers |
+| 3    | Signal quality varies depending on room location. |  Students & Teachers |
+| 4    | Users far from the router experience severe bandwidth drops, frequent timeouts, and connection dropouts while accessing educational resources. | Students & Teachers |
+| 5    | Affected users must physically relocate to high-coverage sections of the building, pause digital activities, or switch to offline work. | Students & Teachers |
 
 ---
 
