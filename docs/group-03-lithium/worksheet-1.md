@@ -9,13 +9,13 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|  Rhys Fredric G. Gabila    | 2.      |
-|  Heshei D. Fernandez       | 3.      |
-|  Marion Elvio F. Salarda   | 4.      |
-|  Brian R. Palado           | 5.      |
-|  Carl Odie F. Juanillo     | 6.      |
-| **PSHS-DRC Area/Location** |         |
+| **Team Members**           | 1. Kaj Arvin P. Pancho     |
+|      | 2. Rhys Fredric G. Gabila  |
+|       | 3. Heshei D. Fernandez     |
+|    | 4. Marion Elvio F. Salarda      |
+|             | 5. Brian R. Palado     |
+|      | 6. Carl Odie F. Juanillo     |
+| **PSHS-DRC Area/Location** | Registrar      |
 
 ---
 
@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> 
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> The purpose of this process is to shorten the length of time it takes
 
 <br>
 
