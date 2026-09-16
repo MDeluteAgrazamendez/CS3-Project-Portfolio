@@ -93,6 +93,6 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1.Online Automated Clearance Tracker      |   Enables the faculty to track clearances easily by automatically detecting which is cleared or not in a checklist online through a website..|
+| 2.  Digital Alarm Clock Clearance (For faculty and staff)|  To alarm the faculties at their exact time set to sign clearances through website and as the alarm is sent via notification, students will directly come not a minute more or less.      |
+| 3.   Digital Alarm for Requirements    | Sends a notification non-stop if the student doesn’t open it, otherwise the notification will stop sending the lacking requirements in order to be cleared.        |
