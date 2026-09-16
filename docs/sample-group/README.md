@@ -2,12 +2,12 @@
 
 ## Members
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Alboroto, Francis
+2. Asentista, Eden
+3. Compo, Reyven
+4. Duadua, Gillian
+5. Martinez, Romart
+6. Soguilon, Yno
 
 ## Project Title
 
