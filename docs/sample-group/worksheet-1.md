@@ -15,7 +15,7 @@
 |                            | 4.Duadua, Gillian      |
 |                            | 5.Martinez, Romart      |
 |                            | 6.Soguilon, Yno      |
-| **PSHS-DRC Area/Location** |         |
+| **PSHS-DRC Area/Location** | Acad 1        |
 
 ---
 
