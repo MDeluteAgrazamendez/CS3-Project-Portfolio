@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> The process of campus-wide Wi-Fi connection, bandwidth access, and digital resource usage by students and school personnel inside the Acad 1 building during active class and study hours.
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> To provide stable internet connectivity across classrooms and study areas, enabling users to access educational portals, stream instructional media, submit academic requirements, and conduct research.
 
 <br>
 
@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> The current Wi-Fi system treats all connected devices equally regardless of user role or task urgency. During peak hours, non-essential high-bandwidth consumption (such as video streaming or background updates) starves students who are trying to access learning portals or submit urgent academic requirements, causing slow loading times, network timeouts, and unfair bandwidth starvation in congested areas of Acad 1.
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> Steps 3 and 4 can be significantly improved by automating bandwidth allocation based on user role and task urgency. Instead of a static "first-come, first-served" connection model, a software-based dynamic bandwidth throttler can automatically detect high-priority academic tasks (e.g., student submissions and deadlines) and re-route higher network speeds to them in real time.
 
 <br>
 
@@ -74,7 +74,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> CRAM-NET is a software-based bandwidth allocation simulator that dynamically manages Wi-Fi speed distribution in Acad 1. It prioritizes students working on urgent academic tasks during study/class hours, shifting bandwidth allocation from lower-priority devices to ensure students complete their requirements without network delays.
 
 <br>
 
@@ -82,8 +82,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1.Students        |Log into the system, select their current task urgency level (e.g., urgent submission, general research), and receive optimized bandwidth speed.              |
+| 2.School Personnel / Administrators        |Monitor current network usage trends, view active session bandwidth queues, and adjust base speed limits for different user groups.              |
 
 ### 3. What are the essential features?
 
@@ -91,6 +91,8 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
+| 1.Workload-Based Role Login      |Classifies users as Student or Personnel and records active academic task urgency (e.g., ongoing research, impending assignment deadline) to set base network priority.| 
+| 2.Dynamic Student-Centric Bandwidth Allocator      |Automatically shifts available bandwidth capacity to students during active academic hours and project deadlines, throttling lower-priority or background network traffic.| 
+| 3.Automated Traffic & Activity Logger      |Logs session bandwidth consumption and generates a clear summary table flagging high-usage vs. academic traffic to keep the network optimized.| 
 | 2.      |         |
 | 3.      |         |
