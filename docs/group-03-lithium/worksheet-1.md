@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> We observed that the clearance often takes too long to process and complete. The people in charge of these clearances have to go to different offices and people just to get it signed, and a lot of times, the said people and offices are often too busy to sign. Some students also have lacking requirements that they procrastinate to do, also causing a disruption in the process.
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> The waiting time and signatures needed for the clearance can be improved. It could be quicker, faster, and the clearance can be accomplished without much worry or wait.
 
 <br>
 
