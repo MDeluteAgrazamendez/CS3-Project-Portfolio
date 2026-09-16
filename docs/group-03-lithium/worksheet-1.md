@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> The process is where the registrar gives the students a clearance sheet and they must come to each facility and sign their clearance sheet for their upcoming examinations.
+> Our group is observing the process of complying with the end of the year clearance. From what we've observed based on previous years and discussion about how it will be handled this year, students either complete their clearance individually or assign the task to two or more people in the same section.
 > 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> The purpose of the process is to clear the students in their requirements in order to take the examination without any issue. When the student is not cleared, thereby they cannot take the quarterly examination for each subject.
+> This process is there so that the students clearances are filed correctly, to ensure that the specific scholar has complied with all their obligations, whether it be academic, financial, or administrative. After they are cleared, they may proceed to the next year, assuming they are able to provide other requirements for re-enrolling.
 
 <br>
 
