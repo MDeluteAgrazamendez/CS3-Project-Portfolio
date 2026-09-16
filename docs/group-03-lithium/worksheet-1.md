@@ -23,34 +23,36 @@
 
 ### 1. What process did you observe?
 
+> The process is where the registrar gives the students a clearance sheet and they must come to each facility and sign their clearance sheet for their upcoming examinations.
 > 
-
 <br>
 
 ### 2. What is the purpose of this process?
 
-> The purpose of this process is to shorten the length of time it takes
+> The purpose of the process is to clear the students in their requirements in order to take the examination without any issue. When the student is not cleared, thereby they cannot take the quarterly examination for each subject.
 
 <br>
 
 ### 3. Who are involved in the process?
 
+> The people involved in this process are the advisers, students, faculties or staff in charge of a facility/organization and the registrar.
+
 **(Up to two roles only.)**
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1. Registrar         |       Check if the student is cleared to take the exam or not            |
+| 2. Student         |         Submit their clearance sheet                      |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    | Making of clearance sheets              |  Registrar                    |
+| 2    | Distribution of clearance sheets             |   Advisers                   |
+| 3    | Receiving and submitting the clearance sheet              |    Students                  |
+| 4    | Checking if the student is cleared and signing of each clearance sheet             |   Faculty in charge                   |
+| 5    | Submission of clearances to the Adviser              |   Students                   |
 
 ---
 
