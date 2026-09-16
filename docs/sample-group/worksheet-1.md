@@ -39,8 +39,8 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1. Students | Connect to the school Wi-Fi network to access online learning portals, download learning materials, and complete research or assignments.                             |
+| 2. Teachers |                               |
 
 ### 4. What are the steps in the current process?
 
