@@ -86,8 +86,8 @@
 
 | User/Role                  | Possible Use                                                                                      |
 | ---------------------------| --------------------------------------------------------------------------------------------------|
-| 1.  |        |
-| 2.      |C |
+| 1.  | Students             | Students would be able to check requirements and update the clearances that they have done. |
+| 2.  | Faculty              | Teachers would be able to check requirements of students and update their status that says whether or not they are available. |
 
 ### 3. What are the essential features?
 
