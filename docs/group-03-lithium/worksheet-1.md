@@ -76,16 +76,16 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> Our proposed system includes a website/application that would allow teachers, office personnel and students to be able to check, update, and mark the clearances done. For example, we would have a system where the personnel will be able to sign into their gmail account and be under a staff category and update whether or not their office is available for signing clearance or if there are other clearances in queue waiting to be signed for that specific office. For the students, similar things would be applied except they would be under a student category in which they can see the updates of each office’s availability and can mark off which ones they have done. For the problem regarding some students with lacking requirements, it would show for both the students and staff that for this section, these specific students have missing requirements based on the teachers’ updates to the website/app whether or not they have any missing requirements or not. I believe that an additional feature could be that students can drop of the clearance instead of waiting there and they will be notified through the website/application if the offices are done signing their clearances.
 
 <br>
 
 ### 2. Who would use the system?
 
-| User/Role | Possible Use |
-| --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| User/Role                  | Possible Use                                                                                      |
+| ---------------------------| --------------------------------------------------------------------------------------------------|
+| 1.Students/Muse and Escort |Easy tracking(checklist format) and managing of offices available and offices done signing.        |
+| 2.Offices/Teachers         |Can see which students have missing/lacking requirements and can update their office availability. |
 
 ### 3. What are the essential features?
 
