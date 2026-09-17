@@ -9,8 +9,7 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** | CRAM-NET (Campus Resource Allocation for Academic Priority Network)      |
-| **Team Members**           | 1.Alboroto Francis      |a
-
+| **Team Members**           | 1.Alboroto Francis      |
 |                            | 2.Asentista, Eden      |
 |                            | 3.Compo, Reyven      |
 |                            | 4.Duadua, Gillian      |
