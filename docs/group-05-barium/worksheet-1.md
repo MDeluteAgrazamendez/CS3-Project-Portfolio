@@ -46,7 +46,7 @@
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    | Users their classroom of the academic building for classes or study sessions. |  Students & Teachers  |
+| 1    | Users enter their classroom of the academic building for classes or study sessions. |  Students & Teachers  |
 | 2    | Users attempt to connect their devices to the school's free Wi-Fi network from their current location. | Students & Teachers |
 | 3    | Signal quality varies depending on room location. |  Students & Teachers |
 | 4    | Users far from the router experience severe bandwidth drops, frequent timeouts, and connection dropouts while accessing educational resources. | Students & Teachers |
