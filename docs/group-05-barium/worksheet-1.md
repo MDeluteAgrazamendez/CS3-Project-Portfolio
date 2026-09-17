@@ -8,14 +8,14 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** | CRAM-NET (Campus Resource Allocation for Academic Priority Network)      |
+| **Proposed Project Title** | CRAM-NET (Campus Resource Allocation for Academic Priority Network)   |
 | **Team Members**           | 1.Alboroto Francis      |
 |                            | 2.Asentista, Eden      |
 |                            | 3.Compo, Reyven      |
 |                            | 4.Duadua, Gillian      |
 |                            | 5.Martinez, Romart      |
 |                            | 6.Soguilon, Yno      |
-| **PSHS-DRC Area/Location** | Acad 1        |
+| **PSHS-DRC Area/Location** | Acad Building 1        |
 
 ---
 
