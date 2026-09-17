@@ -46,6 +46,7 @@
 
 ### 4. What are the steps in the current process?
 
+
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
 | 1    | Making of clearance sheets              |  Registrar                    |
@@ -53,6 +54,7 @@
 | 3    | Receiving and submitting the clearance sheet              |    Students                  |
 | 4    | Checking if the student is cleared and signing of each clearance sheet             |   Faculty in charge                   |
 | 5    | Submission of clearances to the Adviser              |   Students                   |
+
 
 ---
 
