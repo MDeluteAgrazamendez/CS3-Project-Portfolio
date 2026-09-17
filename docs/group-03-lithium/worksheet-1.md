@@ -84,8 +84,8 @@
 
 | User/Role                  | Possible Use                                                                                      |
 | ---------------------------| --------------------------------------------------------------------------------------------------|
-| 1. Students/Muse and Escort |Easy tracking(checklist format) and managing of offices available and offices done signing.        |
-| 2. Offices/Teachers         |Can see which students have missing/lacking requirements and can update their office availability. |
+| 1.  |        |
+| 2.      |C |
 
 ### 3. What are the essential features?
 
