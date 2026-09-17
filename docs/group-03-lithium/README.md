@@ -2,12 +2,12 @@
 
 ## Members
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. RHYS GABILA
+2. HESHEI FERNANDEZ
+3. CARL JUANILLO
+4. KAJ PANCHO
+5. MARION SALARDA
+6. BRIAN PALADO
 
 ## Project Title
 
