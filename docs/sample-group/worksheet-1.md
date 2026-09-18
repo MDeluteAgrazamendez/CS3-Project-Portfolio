@@ -9,9 +9,9 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
+| **Team Members**           | 1. Sample student 1     |
+|                            | 2. Sample Student 2     |
+|                            | 3. sample student 3     |
 |                            | 4.      |
 |                            | 5.      |
 |                            | 6.      |
